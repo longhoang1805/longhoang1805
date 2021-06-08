@@ -4,7 +4,7 @@
 - 💬 Ask me about Java or any tech related stuff.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - 😄 Pronouns: He/His.
-- ⚡ Fun fact: I love to play guitar and drums.
+- ⚡ Fun fact: I love to play guitar and drum.
 ### Skills
 - Java
 - HTML/CSS
