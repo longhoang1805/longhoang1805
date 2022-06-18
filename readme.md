@@ -1,7 +1,7 @@
 ### Hola, I'm Hoang Long 👋
 - 🔭 I’m currently working on VKU.
-- 🌱 I’m currently learning more about Flutter.
-- 💬 Ask me about Java or any tech related stuff.
+- 🌱 I’m currently learning more about Java spring.
+- 💬 Ask me about PHP or any tech related stuff.
 - 🥅 2022 Goals: Contribute more to Open Source projects.
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I love to play guitar and drum.
