@@ -1,6 +1,6 @@
 ### Hola, I'm Hoang Long 👋
 - 🔭 I’m currently working on VKU.
-- 🌱 I’m currently learning more about Java spring.
+- 🌱 I’m currently learning more about Java spring boot.
 - 💬 Ask me about PHP or any tech related stuff.
 - 🥅 2022 Goals: Contribute more to Open Source projects.
 - 😄 Pronouns: He/His.
