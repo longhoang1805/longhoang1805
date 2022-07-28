@@ -12,6 +12,14 @@
 - Kotlin
 - PHP
 - Ruby
+### ⛅️ Weather in Danang now!
+
+<pre>Weather: ☀️   Sunny, +31°C, 63%, ↙4km/h, 1008hPa
+Timezone: Asia/Ho_Chi_Minh
+  Now:    11:25:07+0700 | Dawn:    05:03:53  | Sunrise: 05:27:22
+  Zenith: 11:53:41      | Sunset:  18:19:50  | Dusk:    18:43:17
+Location: Đà Nẵng, Thanh Khê, Đà Nẵng, Việt Nam [16.0678,108.2118]
+</pre>
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
