@@ -20,10 +20,6 @@ Timezone: Asia/Ho_Chi_Minh
   Zenith: 11:53:41      | Sunset:  18:19:50  | Dusk:    18:43:17
 Location: Đà Nẵng, Việt Nam 
 </pre>
-## 🔥 Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tranphuquy19&theme=radical&hide_border=true)](https://github.com/hlong19it3)
 
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
