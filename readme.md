@@ -8,7 +8,7 @@
 ### Skills
 - Java
 - HTML/CSS
-- JS (NodeJs)
+- JS 
 - C++
 - PHP
 - Ruby
