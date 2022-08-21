@@ -8,8 +8,8 @@
 ### Skills
 - Java
 - HTML/CSS
+- JS (NodeJs)
 - C++
-- Kotlin
 - PHP
 - Ruby
 ### Languages and Tools:
