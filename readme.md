@@ -7,9 +7,9 @@
 - ⚡ Fun fact: I love to play guitar and drum.
 ### Skills
 - Java
+- C/C++
 - HTML/CSS
 - JS 
-- C++
 - PHP
 - Ruby
 - Gitflow Workflow
