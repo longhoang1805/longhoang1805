@@ -5,13 +5,11 @@
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I love to play guitar and drum.
 ### Skills
-- Java
 - HTML/CSS
-- JS 
+- Javascript
 - NodeJS
-- PHP
-- Ruby
-- AWS Serverless
+- ReactJS
+- AWS
 - Gitflow Workflow
 - CI/CD working
 - Agile Scrum methodology  
@@ -27,15 +25,6 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-<br />
-### Github Stats
-![longhoang1805'stats](https://github-readme-stats.vercel.app/api?username=hlong19it3&count_private=true&show_icons=true&theme=radical)
-### Top languages
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hlong19it3&show_icons=true&theme=radical)
-### Connect with me:
-[<img align="left" alt="hlong19it3 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="hlong19it3 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="hlong19it3 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 <br />
 
