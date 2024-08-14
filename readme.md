@@ -29,7 +29,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 <br />
 ### Github Stats
-![hlong19it3'stats](https://github-readme-stats.vercel.app/api?username=hlong19it3&count_private=true&show_icons=true&theme=radical)
+![longhoang1805'stats](https://github-readme-stats.vercel.app/api?username=hlong19it3&count_private=true&show_icons=true&theme=radical)
 ### Top languages
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hlong19it3&show_icons=true&theme=radical)
 ### Connect with me:
@@ -42,7 +42,7 @@
 ---
 
 [facebook]: https://www.facebook.com/long.hoang.bear
-[instagram]: https://www.instagram.com/long.hwg/
+[instagram]: https://www.instagram.com/long.hwq/
 [linkedin]: https://www.linkedin.com/in/ho%C3%A0ngg-longg-93953b11a/
 [webdevplaylist]: https://www.facebook.com/top906
 [jsplaylist]: https://www.facebook.com/top906
