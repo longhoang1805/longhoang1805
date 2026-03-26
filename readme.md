@@ -1,7 +1,7 @@
 ### Hola, I'm Hoang Long 👋
 - 🔭 I’m currently working at Saigon Technology.
 - 💬 Ask me about NodeJS, ReactJS or any tech related stuff.
-- 🥅 2024 Goals: Contribute more to Open Source projects.
+- 🥅 2026 Goals: Contribute more to Open Source projects.
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I love to play guitar and drum.
 ### Skills
